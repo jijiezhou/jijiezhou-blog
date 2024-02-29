@@ -1,4 +1,4 @@
-# Two Sum
+# 01 Two Sum
 
 ### Description
 
@@ -61,8 +61,6 @@ Output: [0,1]
     
     可以先查看是否存在target - nums[i]，然后再存储<nums[i], i>
     
-
-![Untitled](Two%20Sum%208a76ee2396374c13b81eff2bb8ca2d98/Untitled.png)
 
 [力扣](https://leetcode.cn/problems/two-sum/solution/dong-hua-cong-liang-shu-zhi-he-zhong-wo-0yvmj/)
 

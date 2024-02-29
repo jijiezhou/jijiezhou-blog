@@ -11,7 +11,7 @@ permalink: /
 > Website：[https://jijiezhou.com](https://jijiezhou.com)
 
 ## Content
-
+- [Cracking Leetcode](/Cracking_Leetcode/)
 - [编程学习路线](/学习路线)
 - [鱼皮的编程学习之路](/自学之路)
 - [编程干货分享](/编程分享)
@@ -22,6 +22,9 @@ permalink: /
 - [编程词典](/编程词典)
 - [作者介绍](/作者)
 
+## [Cracking Leetcode](/Cracking_Leetcode)
+
+Update Leetcode Daily Questions
 
 ## [编程学习路线](/学习路线)
 
