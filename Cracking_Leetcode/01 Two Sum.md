@@ -60,9 +60,6 @@ Output: [0,1]
 - 如何将two-pass —> one-pass
     
     可以先查看是否存在target - nums[i]，然后再存储<nums[i], i>
-    
-
-[力扣](https://leetcode.cn/problems/two-sum/solution/dong-hua-cong-liang-shu-zhi-he-zhong-wo-0yvmj/)
 
 ### Answer
 

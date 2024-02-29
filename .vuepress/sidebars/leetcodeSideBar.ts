@@ -1,7 +1,7 @@
 export default [
   "",
   {
-    title: "Leetcode Questions",
+    title: "Cracking Leetcode",
     collapsable: false,
     children: [
       "01 Two Sum.md",
