@@ -1,18 +1,12 @@
-/*
- * @Descripttion: ZJJ Code
- * @version: 1.0.0
- * @Author: ZJJ
- * @Date: 2023-12-06 23:02:01
- * @LastEditors: ZJJ
- * @LastEditTime: 2024-02-28 20:47:58
- */
 export default [
   "",
   {
-    title: "Cracking Leetcode",
+    title: "学习路线",
     collapsable: false,
     children: [
-      "01 Two Sum.md"
+      "C++学习路线 by 程序员鱼皮.md",
+      "Git&GitHub学习路线 by 程序员鱼皮.md",
+      "Java学习路线 by 程序员鱼皮.md"
     ],
   },
 ];
