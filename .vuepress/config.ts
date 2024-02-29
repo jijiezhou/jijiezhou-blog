@@ -13,7 +13,7 @@ export default defineConfig({
   description: "Complete knowledge about CS",
   head: [
     // 站点图标
-    ["link", { rel: "icon", href: "/favicon.ico" }],
+    ["link", { rel: "icon", href: "/favicon-16x16.png" }],
     // SEO
     [
       "meta",
@@ -113,18 +113,18 @@ export default defineConfig({
     // https://github.com/tolking/vuepress-plugin-img-lazy
     ["img-lazy"],
   ],
-  // 主题配置
+  // Theme config
   themeConfig: {
-    logo: "/logo.png",
+    logo: "/logo1.png",
     nav: navbar,
     sidebar,
-    lastUpdated: "Last Update:",
+    lastUpdated: "Last Update",
 
-    // GitHub 仓库位置
-    repo: "liyupi/codefather",
-    docsBranch: "master",
+    // GitHub repository
+    repo: "jijiezhou/jijiezhou-blog",
+    docsBranch: "main",
 
-    // 编辑链接
+    // Edit Link
     editLinks: true,
     editLinkText: "Improve Page",
 
